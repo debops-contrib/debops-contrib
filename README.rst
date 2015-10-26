@@ -6,8 +6,8 @@
 **Unofficial Ansible roles of the DebOps project**
 
 Welcome. This organization is meant to hold the Ansible roles and playbooks
-that are not par of the official `DebOps <http://github.com/debops/>`_ project,
-but might be integrated with it in the future.
+that are not part of the official `DebOps <http://github.com/debops/>`_
+project, but might be integrated with it in the future.
 
 If you have any roles that you would like to add here, you can either create an
 issue in this (``debops-contrib``) repository or contact the team at
