@@ -14,16 +14,19 @@ issue in this (``debops-contrib``) repository or contact the team at
 ``#debops`` IRC channel on FreeNode, or through the `mailing list
 <https://groups.io/g/debops>`_.
 
-Naming convention
------------------
-
-Roles are prefixed by ``contrib-``. This was done because the `hyphen should not be used normally <https://github.com/nickjj/ansigenome/pull/19#issuecomment-75597850>`_
-and thus is well suited for this kind of additional name space separation.
-
 When your role is ready you can ask `drybjed <https://github.com/drybjed>`_ if he can upload it to `Ansible
-Galaxy`_ under the name ``debops.contrib-$your_role``.
+Galaxy`_ under the debops-contrib username on `Ansible Galaxy`_.
+The role would then be called ``debops-contrib.$your_role``. Remember to rename
+your role appropriately and generate a new README indicating its correct name.
 
-Example: debops.contrib-foodsoft_
+Example: debops-contrib.checkmk_server_
+
+DebOps contrib playbooks
+------------------------
+
+As for the official DebOps project, DebOps Contrib also has a repository
+holding playbooks for the roles. The repository is called
+`debops-contrib-playbooks`_.
 
 ..
  Local Variables:
@@ -31,5 +34,6 @@ Example: debops.contrib-foodsoft_
  ispell-local-dictionary: "american"
  End:
 
-.. _`Ansible Galaxy`: https://galaxy.ansible.com/
-.. _debops.contrib-foodsoft: https://github.com/debops-contrib/ansible-foodsoft
+.. _`Ansible Galaxy`: https://galaxy.ansible.com/debops-contrib/
+.. _debops-contrib.checkmk_server: https://galaxy.ansible.com/debops-contrib/checkmk_server/
+.. _debops-contrib-playbooks: https://github.com/debops-contrib/debops-contrib-playbooks
