@@ -15,7 +15,7 @@ issue in this (``debops-contrib``) repository or contact the team at
 <https://groups.io/g/debops>`_.
 
 When your role is ready you can ask `drybjed <https://github.com/drybjed>`_ if he can upload it to `Ansible
-Galaxy`_ under the debops-contrib username on `Ansible Galaxy <https://galaxy.ansible.com/debops-contrib/>`_.
+Galaxy`_ under the debops-contrib username on `Ansible Galaxy`_.
 The role would then be called ``debops-contrib.$your_role``. Remember to rename
 your role appropriately and generate a new README indicating its correct name.
 
@@ -34,6 +34,6 @@ holding playbooks for the roles. The repository is called
  ispell-local-dictionary: "american"
  End:
 
-.. _`Ansible Galaxy`: https://galaxy.ansible.com/
+.. _`Ansible Galaxy`: https://galaxy.ansible.com/debops-contrib/
 .. _debops-contrib.checkmk_server: https://galaxy.ansible.com/debops-contrib/checkmk_server/
 .. _debops-contrib-playbooks: https://github.com/debops-contrib/debops-contrib-playbooks
