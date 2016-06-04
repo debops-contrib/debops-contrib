@@ -21,6 +21,13 @@ your role appropriately and generate a new README indicating its correct name.
 
 Example: debops-contrib.checkmk_server_
 
+DebOps contrib playbooks
+------------------------
+
+As for the official DebOps project, DebOps Contrib also has a repository
+holding playbooks for the roles. The repository is called
+`debops-contrib-playbooks`_.
+
 ..
  Local Variables:
  mode: rst
@@ -29,3 +36,4 @@ Example: debops-contrib.checkmk_server_
 
 .. _`Ansible Galaxy`: https://galaxy.ansible.com/
 .. _debops-contrib.checkmk_server: https://galaxy.ansible.com/debops-contrib/checkmk_server/
+.. _debops-contrib-playbooks: https://github.com/debops-contrib/debops-contrib-playbooks
