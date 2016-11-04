@@ -14,14 +14,14 @@ issue in this (``debops-contrib``) repository or contact the team at
 ``#debops`` IRC channel on FreeNode, or through the `mailing list
 <https://groups.io/g/debops>`_.
 
-When your role is ready you can ask `drybjed <https://github.com/drybjed>`_ if he can upload it to `Ansible
-Galaxy`_ under the debops-contrib username on `Ansible Galaxy`_.
+You should be able to import your role to `Ansible
+Galaxy`_ under the `debops-contrib <https://galaxy.ansible.com/debops-contrib/>`_ organization.
 The role would then be called ``debops-contrib.$your_role``. Remember to rename
 your role appropriately and generate a new README indicating its correct name.
 
 Example: debops-contrib.checkmk_server_
 
-DebOps contrib playbooks
+DebOps Contrib Playbooks
 ------------------------
 
 As for the official DebOps project, DebOps Contrib also has a repository
