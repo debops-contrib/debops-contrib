@@ -1,5 +1,5 @@
-|debops_logo| `DebOps Contrib <http://debops.org>`_
-===================================================
+|debops_logo| `DebOps Contrib`_
+===============================
 
 **Additional Ansible roles of the DebOps project**
 
@@ -31,6 +31,7 @@ holding playbooks for the roles. The repository is called
 .. _`Ansible Galaxy`: https://galaxy.ansible.com/debops-contrib/
 .. _debops-contrib.checkmk_server: https://galaxy.ansible.com/debops-contrib/checkmk_server/
 .. _debops-contrib-playbooks: https://github.com/debops-contrib/debops-contrib-playbooks
+.. _DebOps Contrib: https://github.com/debops-contrib/debops-contrib
 
 ..
  Local Variables:
