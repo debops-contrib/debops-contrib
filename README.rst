@@ -1,8 +1,6 @@
 |debops_logo| `DebOps Contrib <http://debops.org>`_
 ===================================================
 
-.. |debops_logo| image:: http://debops.org/images/debops-small.png
-
 **Additional Ansible roles of the DebOps project**
 
 Welcome. This organization is meant to hold the Ansible roles and playbooks
@@ -28,12 +26,14 @@ As for the official DebOps project, DebOps Contrib also has a repository
 holding playbooks for the roles. The repository is called
 `debops-contrib-playbooks`_.
 
+.. |debops_logo| image:: https://debops.org/images/debops-small.png
+
+.. _`Ansible Galaxy`: https://galaxy.ansible.com/debops-contrib/
+.. _debops-contrib.checkmk_server: https://galaxy.ansible.com/debops-contrib/checkmk_server/
+.. _debops-contrib-playbooks: https://github.com/debops-contrib/debops-contrib-playbooks
+
 ..
  Local Variables:
  mode: rst
  ispell-local-dictionary: "american"
  End:
-
-.. _`Ansible Galaxy`: https://galaxy.ansible.com/debops-contrib/
-.. _debops-contrib.checkmk_server: https://galaxy.ansible.com/debops-contrib/checkmk_server/
-.. _debops-contrib-playbooks: https://github.com/debops-contrib/debops-contrib-playbooks
